@@ -24,7 +24,3 @@ This professional statement is directed toward:
 
 ## How My Strengths, Values, and Interests Support Security Goals
 My technical proficiency and attention to detail equip me to identify and mitigate vulnerabilities within systems. My commitment to safeguarding and integrity ensures that I prioritize ethical and compliant practices when implementing security protocols. Lastly, my interest in proactive defense and staying updated on emerging threats allows me to support organizations in achieving resilience against cyber risks.
-
----
-
-Feel free to adapt this further for your GitHub profile or any other professional platform! Let me know if you'd like additional tweaks.
